@@ -93,3 +93,8 @@ You can run the script with Visual Studio Code as shown in the picture
 - The output file result.ttl is generated in the root directory.
 
 - Submit the file to GERBIL following the instructions in the project description.
+
+
+## GERBIL Test
+
+![image](./img/test.png)
